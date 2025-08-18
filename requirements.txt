@@ -1,0 +1,7 @@
+requests
+pandas
+sqlalchemy
+matplotlib
+seaborn
+plotly
+tqdm
