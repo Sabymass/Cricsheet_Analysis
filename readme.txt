@@ -27,8 +27,8 @@ scripts/
 ├── queries.sql             # Contains 20 SQL queries for analysis
 ├── run_queries.py          # Executes queries & exports results to Excel
 ├── cricsheet.db            # SQLite database storing matches data
-├── all_queries_results.xlsx # Excel file with query results
 
+all_queries_results.xlsx     # Excel file with query results
 requirements.txt             # Required Python dependencies
 readme.txt                   # Documentation
 ```
